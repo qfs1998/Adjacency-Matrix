@@ -1,3 +1,4 @@
+/*
 #include"Adjacency Matrix.h"
 int main()
 {
@@ -7,3 +8,4 @@ int main()
 	system("pause");
 	return 0;
 }
+*/
